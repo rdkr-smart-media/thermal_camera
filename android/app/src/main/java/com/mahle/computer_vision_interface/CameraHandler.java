@@ -7,7 +7,7 @@
  *
  * Copyright 2019:    FLIR Systems
  ********************************************************************/
-package com.example.thermal_camera;
+package com.mahle.computer_vision_interface;
 
 import android.graphics.Bitmap;
 import android.os.Handler;

@@ -1,4 +1,4 @@
-package com.example.thermal_camera;
+package com.mahle.computer_vision_interface;
 
 import android.content.Intent;
 import android.util.Log;
